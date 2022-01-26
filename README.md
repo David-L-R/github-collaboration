@@ -88,6 +88,14 @@ We should not write everything on our own by try to use external libraries to do
 
 This will allow us to concentrate on the most important thing - combine those amazing tools together and create real value for other people.
 
+You search by using the word "npm":
+
+```
+Search: rich text editor react npm
+```
+
+We should write "React" so we will find libraries that were already implemeneted in React for us. This is not mandatory and does not alway exist but it can be so useful!
+
 ---
 
 ### Enjoy coding :tada:
