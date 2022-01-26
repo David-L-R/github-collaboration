@@ -11,3 +11,5 @@ In this lesson we will learn:
 - solving conflicts
 - pulling new code
 - fork
+- getting those beautiful greens
+- git history
