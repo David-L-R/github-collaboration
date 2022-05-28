@@ -78,7 +78,7 @@ Once this project is finished, fork it so it will appear on your own Github prof
 
 ## :package: External packages
 
-> Don't invent the wheel
+> Don't re-invent the wheel
 
 _wise teacher_
 
